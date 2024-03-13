@@ -1,1 +1,0 @@
-The kitten is black.
